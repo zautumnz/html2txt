@@ -3,9 +3,7 @@
   "description": "html2text but in node",
   "version": "2.1.10",
   "author": {
-    "email": "zac@zacanger.com",
-    "name": "Zac Anger",
-    "url": "http://zacanger.com"
+    "name": "Autumn Z"
   },
   "license": "MIT",
   "main": "index.js",
@@ -20,12 +18,12 @@
     "preversion": "npm t",
     "test": "sortpack && standard && ./index.js"
   },
-  "homepage": "https://github.com/zacanger/html2txt#readme",
+  "homepage": "https://github.com/zautumnz/html2txt#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zacanger/html2txt.git"
+    "url": "git+https://github.com/zautumnz/html2txt.git"
   },
-  "bugs": "https://github.com/zacanger/html2txt/issues",
+  "bugs": "https://github.com/zautumnz/html2txt/issues",
   "keywords": [
     "html",
     "html2text",

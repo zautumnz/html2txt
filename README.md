@@ -2,8 +2,6 @@
 
 [html2text](https://github.com/aaronsw/html2text) but in Node.
 
-[Donate](https://ko-fi.com/zacanger)
-
 --------
 
 ## Installation:
@@ -14,7 +12,7 @@
 
 `html2txt someurl`
 
-`html2txt zacanger.com`
+`html2txt example.com`
 
 `html2txt ~/foo/bar.html`
 
